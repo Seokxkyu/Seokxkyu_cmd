@@ -5,4 +5,15 @@
 groups = ["default"]
 strategy = ["cross_platform", "inherit_metadata"]
 lock_version = "4.4.2"
-content_hash = "sha256:d3007c65cf6f599df32770f1bb58581b12054c3fa0d167035d674644a49fb97b"
+content_hash = "sha256:bcfee12753896da13dd83813a67cc3ce4399a0fc4dd9d096d8e8e128855c948c"
+
+[[package]]
+name = "seokxkyu-lotto"
+version = "0.2.0"
+requires_python = ">=3.9"
+summary = "Default template for PDM package"
+groups = ["default"]
+files = [
+    {file = "Seokxkyu_lotto-0.2.0-py3-none-any.whl", hash = "sha256:433ccb870a2a19fb5d9998b548c562817bb8087ab4e1d2a3da35d76f323caf46"},
+    {file = "seokxkyu_lotto-0.2.0.tar.gz", hash = "sha256:92c7cef6874b29a4aa1bd5d8f4b582456f71ba38fd14c353d1e840378dc7def5"},
+]
