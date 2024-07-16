@@ -1,6 +1,6 @@
 [project]
 name = "Seokxkyu_cmd"
-version = "0.1.0"
+version = "0.1.1"
 description = "Default template for PDM package"
 authors = [
     {name = "Seokxkyu", email = "kyuseok000@gmail.com"},
@@ -12,7 +12,7 @@ license = {text = "MIT"}
 
 
 [project.scripts]
-seokxkyu_cmd = 'seokxkyu_cmd.cmd:call'
+seokxkyu-cmd = 'seokxkyu_cmd.cmd:call'
 
 
 [tool.pdm]
